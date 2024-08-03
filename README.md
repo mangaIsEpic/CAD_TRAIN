@@ -1,34 +1,27 @@
-# Toy Train Project
-
-Welcome to the Toy Train Project! This repository is dedicated to building a fun and interactive toy train. The project is a hobbyist endeavor aimed at creating a small, functional train model with various features.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-
-The Toy Train Project is a personal project to design and build a toy train. The goal is to create a miniature train that can move along a track, with additional features maybe! Stay tuned.
-
-## Features
-
-- **Movable Train**: The train can move forward and backward on the track.
-
-## Installation
-
-To get started with the Toy Train Project, follow these steps:
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/toy-train-project.git
-    ```
-
 ## Usage
 
-Open in the CAD editor of your choice!
+Open the CAD files in your preferred CAD software to view, modify, or print the models. The files are organized into different folders based on the components of the toy train.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Email**: mangahigh1@gmail.com
+- **GitHub**: [mangaIsEpic](https://github.com/mangaIsEpic)
+
+Enjoy designing your toy train!
